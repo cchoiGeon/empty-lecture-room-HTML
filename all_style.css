@@ -1,0 +1,45 @@
+header li{
+    margin: 10px;
+}
+/*login 부분*/
+.idstyle{
+    display: inline-block;
+    width: 248px;
+    height: 34px;
+    border: 1px solid #dbdbdb;
+    margin-bottom: 5px;
+    padding-left: 10px;
+    color: #787878;
+    font-family: Dotum;
+    font-size: 12px;
+    color: #999;
+  }
+  .loginbutton{
+    display: inline-block;
+    width: 258px;
+    height: 34px;
+    background-color: #f8f8f8;
+    line-height: 34px;
+    color: #787878;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 500;
+    border: 1px solid #dbdbdb;
+    vertical-align: top;
+    margin-top: 5px;
+  }
+  .loginplace{
+    position: absolute;
+    left: 40%;
+    top: 50%;
+  }
+  .room{
+    text-decoration-line: none;
+    color :black;
+  }
+  .image{
+    position: absolute;
+    left:580px; /*720px*/
+    top:280px; /*400px*/
+  }
+  
